@@ -6,4 +6,3 @@ apache:
   vhostsource: 'apache/vhost.conf.erb'
   vhostfile: '/etc/httpd/conf.d/vhost.conf'
   servicename: 'httpd'
-  servicename: 'httpd'
